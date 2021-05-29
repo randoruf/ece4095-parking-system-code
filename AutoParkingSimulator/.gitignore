@@ -1,0 +1,7 @@
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+Debug/
+
+# Pycharm
+.idea/
+__pycache__/
