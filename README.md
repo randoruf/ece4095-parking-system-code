@@ -38,7 +38,7 @@ In fact, I only have done the first part of the project....
   - [x] parking spaces assignment algorithms (static scenarios)
   - [x] single-agent motion planning with simple replanning to avoid obstacles. 
   - [ ] parking spaces assignment algorithms (dynamic scenarios, some parking spaces are occupied, and vehicle can go in and out)
-  - [ ] sensitivity analysis on the orietntation term for weight Euclidean distance (grid search), will the $$w_0$$ change the conclusions or simulation results. What is the best value for the orientation term. 
+  - [ ] sensitivity analysis on the orietntation term for weight Euclidean distance (grid search), will the $w_0$ change the conclusions or simulation results. What is the best value for the orientation term. 
   - [ ] Adding more heursitcs function to parking space assignment algorithms (moving obstacle density, how far to the moving obstacles, and whether its right and left side parking spaces are occupied). 
   - [ ] multi-agent motion planning (PRM, safety interval A*.... )
 
