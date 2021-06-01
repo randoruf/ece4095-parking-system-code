@@ -55,7 +55,7 @@ In fact, I only have done the first part of the project....
 
 - [ ] (Optional) For the fourth part (integration), we will use a 3D simulator such as CARLA to demonstrate the parking behavior, using the planner and the vision system.
   - [ ] CARLA simulation is just for demonstration, it is optinal because *motion planning will be in 2D* (otherwises, the problem will be extremely hard to solve). 
-  - [ ] ![Carla Driver Behaviour Dataset | Kaggle](data-original.jpg)
+  - [ ] ![](data-original.jpg)
   - [ ] Unity ML-agents is also enough... 
   - [ ] ![Unity ML-Agents Environment - SoccerTwos - YouTube](maxresdefault.jpg)
 
