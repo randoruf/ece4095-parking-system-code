@@ -19,8 +19,7 @@ if __name__ == "__main__":
             x, y, theta = line.strip().split(' ')
             tmp_car = Car(ax, "gray")
             tmp_car.update_state(float(x), float(y), float(theta), 0)
-            # tmp_car.vehicle_inflation_example_update()
-            tmp_car.vehicle_inflation_example_disable()
+            tmp_car.vehicle_inflation_example_update()
             num_cars += 1
 
     # print("There are " + str(num_cars) + " parking space in the parking lot.")
