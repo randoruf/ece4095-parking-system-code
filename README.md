@@ -17,5 +17,6 @@ Thanks for Akansel Cosgun providing this interesting idea!
   - SDL2 is deprecated because I was thinking for online simulation previously, but it turns out offline simulation is enough... 
   - OMPL http://ompl.kavrakilab.org/installation.html
   - SDL2 and Visual Studio [Setup SDL2 with VS2019 and vcpkg](https://randoruf.github.io/2021/03/23/install-sdl2-windows.html)
+- Set up Python3 environment https://www.anaconda.com/products/individual
 - Open Project in Visual Studio 2017
 
