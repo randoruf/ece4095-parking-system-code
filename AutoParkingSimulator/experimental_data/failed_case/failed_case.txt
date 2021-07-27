@@ -1,0 +1,26 @@
+2020_05_20_greedy_euclidean_goal_agent5_instance11.txt (replan one car )
+2020_05_20_greedy_euclidean_goal_agent5_instance9.txt (rrt failed in the beginning)
+2020_05_20_prioritized_euclidean_goal_agent5_instance11.txt (why?)
+2020_05_20_prioritized_euclidean_goal_agent5_instance19.txt (only replan for one car)
+2020_05_20_prioritized_euclidean_goal_agent5_instance5.txt (rrt can not in the beginning)
+2020_05_20_prioritized_euclidean_goal_agent5_instance6.txt (goal overlap)
+2020_05_20_prioritized_euclidean_goal_agent5_instance7.txt (only replan for one car)
+2020_05_20_random_goal_agent5_instance1.txt (why?)
+2020_05_20_random_goal_agent5_instance10.txt (rrt failed in the beginning)
+2020_05_20_random_goal_agent5_instance11.txt (only replan for one car...)
+2020_05_20_random_goal_agent5_instance12.txt (only replan for one car...)
+2020_05_20_random_goal_agent5_instance14.txt (deadlock since goal overlap)
+2020_05_20_random_goal_agent5_instance15.txt (only replan for one car...)
+2020_05_20_random_goal_agent5_instance17.txt (rrt failed in the beginning)
+2020_05_20_random_goal_agent5_instance18.txt (rrt failed in the beginning)
+2020_05_20_random_goal_agent5_instance19.txt (rrt failed in the beginning) 
+2020_05_20_random_goal_agent5_instance20.txt (prefect deadlock)
+2020_05_20_random_goal_agent5_instance5.txt (rrt failed in the beginning)
+2020_05_20_random_goal_agent5_instance7.txt (rrt failed in the beginning)
+2020_05_20_random_goal_agent5_instance8.txt (rrt failed in the beginning)
+2020_05_20_random_goal_agent5_instance9.txt (why? rrt ?)
+
+
+
+
+
