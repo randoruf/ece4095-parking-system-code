@@ -4,7 +4,7 @@
 
 ## Slide
 
-https://randoruf.github.io/ece4095-parking-system-demo/slide/
+https://haohua-li.github.io/ece4095-parking-system-demo/slide/
 
 ## Acknowledgement
 
