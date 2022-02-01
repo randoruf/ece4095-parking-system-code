@@ -8,9 +8,6 @@ The project assumes the parking lot can percept the environment by using the sen
 
 ![prioritized_goal_example_presentation](./imgs/prioritized_goal_example_presentation.gif)
 
-## Slide
-
-
 
 ## Acknowledgement
 
