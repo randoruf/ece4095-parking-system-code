@@ -10,7 +10,7 @@ The project assumes the parking lot can percept the environment by using the sen
 
 ## Slide
 
-https://haohua-li.github.io/ece4095-parking-system-demo/slide/
+
 
 ## Acknowledgement
 
